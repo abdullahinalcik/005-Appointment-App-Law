@@ -1,3 +1,3 @@
 
 
-lawyersite-abdullah.netlify.app
+https://lawyersite-abdullah.netlify.app/
