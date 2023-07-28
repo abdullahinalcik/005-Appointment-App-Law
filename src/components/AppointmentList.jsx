@@ -31,7 +31,7 @@ const AppointmentList = ({ appointmentData, lawyersData,setAppointmentData }) =>
             </h3>
             <div clasName="app-law">
                 {/* <img src=""></img> */}
-                img
+                
                 <h4>{lawyer}</h4>
                 
               </div>
